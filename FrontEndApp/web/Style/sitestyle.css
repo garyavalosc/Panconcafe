@@ -1,0 +1,26 @@
+/* 
+    Created on : Feb 8, 2019, 6:43:15 PM
+    Author     : balbi
+*/
+
+h1{
+    color:#ffa686;  
+    font-family: Arial;
+    font-size: 56px;
+    background-color: green;
+}
+
+p{
+    font-family: Calibri;
+    font-size: 28px;
+}
+
+.main{
+    font-size: 72px;
+    color: yellow;
+}
+
+#spec{
+    font-size: 82px;
+    color: cornflowerblue;                
+}
